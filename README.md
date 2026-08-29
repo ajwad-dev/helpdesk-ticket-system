@@ -17,7 +17,7 @@ The system provides a REST API for creating and managing support tickets, with P
 
 ## 🏗️ Architecture
 
-```text
+
               Client
                 │
                 ▼
